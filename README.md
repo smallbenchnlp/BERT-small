@@ -1,6 +1,7 @@
-# We have used [ELECTRA code](https://github.com/google-research/electra.git) to pretrain a BERT-small model for a single GPU.
+## We have used [ELECTRA code](https://github.com/google-research/electra.git) to pretrain a BERT-small model for a single GPU.
+Follow the instructions in [Quickstart: Pre-train a small ELECTRA model.](https://github.com/google-research/electra#quickstart-pre-train-a-small-electra-model) 
 
-Detailed instructions to run it using Docker is available [here]( https://bhuvana-kundumani.medium.com/pretraining-bert-from-scratch-on-openwebtext-data-on-a-single-gpu-using-docker-8d8e2f05e8d6)
+If you are interested to train using docker, detailed instructions are available in this [blog]( https://bhuvana-kundumani.medium.com/pretraining-bert-from-scratch-on-openwebtext-data-on-a-single-gpu-using-docker-8d8e2f05e8d6)
 
 # ELECTRA
 
