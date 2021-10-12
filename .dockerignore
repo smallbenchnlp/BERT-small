@@ -1,1 +1,7 @@
 data/openwebtext/*.xz
+
+data/finetuning_data/*
+
+data/models/*
+data/*
+data/*.*
